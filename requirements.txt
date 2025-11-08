@@ -1,0 +1,23 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Time Series Forecasting
+prophet>=1.1.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data Validation
+scikit-learn>=1.2.0
+
+# Optional: Progress bars
+tqdm>=4.65.0
+
+# Optional: Better data exploration (renamed package)
+ydata-profiling>=4.0.0
